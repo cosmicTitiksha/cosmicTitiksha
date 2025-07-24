@@ -3,12 +3,13 @@
 <h3 align="center">Exploring Web Dev & AI/ML | Learning by Contributing | Building for Tomorrow</h3>
 <br>
 
-<img align="right" alt="c" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmictitiksha&label=Profile%20views&color=0e75b6&style=flat" alt="cosmictitiksha" /> </p>
 
+<img align="right" width="400" height="4636" alt="vecteezy_software-engineer-png-graphic-clipart-design_20962986" src="https://github.com/user-attachments/assets/edfa8755-6ebb-4dc2-b296-b2e428aab14e" />
 
 - 🔭 I’m currently working on **XenoLite - You Prompt, I bring it to life.**
 
@@ -21,6 +22,8 @@
 - 📫 How to reach me **titiksham887@gmail.com**
 
 - ⚡ Fun fact **Day is illusion, Night is way REAL**
+
+
 
   <br>
 
