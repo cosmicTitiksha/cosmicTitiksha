@@ -44,5 +44,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmictitiksha&show_icons=true&locale=en" alt="cosmictitiksha" /></p>
 <h2>&#x1F337;  Badges Earned!  &#x1F33A;</h2>
-<img width="291" height="291" alt="Postman - Postman API Fundamentals Student Expert - 2025-07-26" src="https://github.com/user-attachments/assets/c257b119-0436-4469-a06c-52feedebac4c" />
+<img width="200" alt="Postman - Postman API Fundamentals Student Expert - 2025-07-26" src="https://github.com/user-attachments/assets/c257b119-0436-4469-a06c-52feedebac4c" />
 
