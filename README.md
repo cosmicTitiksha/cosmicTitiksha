@@ -44,6 +44,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmictitiksha&show_icons=true&locale=en&layout=compact" alt="cosmictitiksha" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmictitiksha&show_icons=true&locale=en" alt="cosmictitiksha" /></p>
 
 <br>
@@ -51,4 +52,6 @@
 <h2>&#x1F337;  Badges Earned!  &#x1F33A;</h2>
 <br>
 <a href="https://badgr.com/public/assertions/uRfRmKdZR0idzrqpqjv10g?identity__email=titiksham887@gmail.com"><img width="150" alt="Postman - Postman API Fundamentals Student Expert - 2025-07-26" src="https://github.com/user-attachments/assets/c257b119-0436-4469-a06c-52feedebac4c" /></a>
+<a href="#"><img width="170" alt="hackerRank-python" src="https://github.com/user-attachments/assets/71449405-d5cc-4ccc-ba25-5a53b8ac68a6" />
+</a>
 
