@@ -1,3 +1,4 @@
+<img width="1344" height="400" alt="Mysterious Jungle Predator Eyes Virtual Background Illustration" src="https://github.com/user-attachments/assets/dfa56804-efe9-4640-a9b9-a62ed2c924d6" />
 
 <h1 align="center">Hi 👋, I'm TITIKSHA</h1>
 <h3 align="center">Exploring Web Dev & AI/ML | Learning by Contributing | Building for Tomorrow</h3>
@@ -9,7 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmictitiksha&label=Profile%20views&color=0e75b6&style=flat" alt="cosmictitiksha" /> </p>
 
-<img align="right" width="300" alt="vecteezy_software-engineer-png-graphic-clipart-design_20962986" src="https://github.com/user-attachments/assets/edfa8755-6ebb-4dc2-b296-b2e428aab14e" />
+<img width="400" align="right" src="https://github.com/user-attachments/assets/83261fb4-74fd-48b7-9919-32f467037349">
+
 
 - 🔭 I’m currently working on **XenoLite - You Prompt, I bring it to life.**
 
