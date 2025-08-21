@@ -1,4 +1,4 @@
-<img width="1344" height="400" alt="Mysterious Jungle Predator Eyes Virtual Background Illustration" src="https://github.com/user-attachments/assets/dfa56804-efe9-4640-a9b9-a62ed2c924d6" />
+<img width="1344" height="500" alt="Mysterious Jungle Predator Eyes Virtual Background Illustration" src="https://github.com/user-attachments/assets/dfa56804-efe9-4640-a9b9-a62ed2c924d6" />
 
 <h1 align="center">Hi 👋, I'm TITIKSHA</h1>
 <h3 align="center">Exploring Web Dev & AI/ML | Learning by Contributing | Building for Tomorrow</h3>
