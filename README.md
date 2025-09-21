@@ -54,6 +54,9 @@
 <h2>&#x1F337;  Badges Earned!  &#x1F33A;</h2>
 <br>
 <a href="https://badgr.com/public/assertions/uRfRmKdZR0idzrqpqjv10g?identity__email=titiksham887@gmail.com"><img width="150" alt="Postman - Postman API Fundamentals Student Expert - 2025-07-26" src="https://github.com/user-attachments/assets/c257b119-0436-4469-a06c-52feedebac4c" /></a>
-<a href="https://www.hackerrank.com/profile/titiksham887"><img width="170" alt="hackerRank-python" src="https://github.com/user-attachments/assets/71449405-d5cc-4ccc-ba25-5a53b8ac68a6" />
+<img width="120" alt="Screenshot (756)" src="https://github.com/user-attachments/assets/7ef0a2a6-fff8-4252-b1ed-ade08ecd75f6" href="https://www.hackerrank.com/profile/titiksham887" />
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/a66dc2a3-f8ab-447a-9bef-e5eeb3e22bdb" href="https://www.hackerrank.com/profile/titiksham887" />
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/4c44b1ec-5234-4cbf-aabc-5a59402cd706" href="https://www.hackerrank.com/profile/titiksham887" />
+
 </a>
 
