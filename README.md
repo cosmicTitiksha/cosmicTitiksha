@@ -1,7 +1,7 @@
 <img width="1344" height="500" alt="Mysterious Jungle Predator Eyes Virtual Background Illustration" src="https://github.com/user-attachments/assets/dfa56804-efe9-4640-a9b9-a62ed2c924d6" />
 
 <h1 align="center">Hi 👋, I'm TITIKSHA</h1>
-<h3 align="center">Exploring Web Dev & AI/ML | Learning by Contributing | Building for Tomorrow</h3>
+<h3 align="center">Exploring everything | Learning by Contributing | Passionate to build myself</h3>
 <br>
 
 
@@ -13,17 +13,15 @@
 <img width="400" align="right" src="https://github.com/user-attachments/assets/83261fb4-74fd-48b7-9919-32f467037349">
 
 
-- 🔭 I’m currently working on **XenoLite - You Prompt, I bring it to life.**
+- 🔭 I’m currently working on Hawcking- A chrome extension project
 
-- 🌱 I’m currently learning **Flask & Python**
+- 🌱 I’m currently learning "building chrome extensions".
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me "how are you really?"
 
-- 💬 Ask me about **HTML & CSS**
+- 📫 How to reach me: titiksham887@gmail.com
 
-- 📫 How to reach me **titiksham887@gmail.com**
-
-- ⚡ Fun fact **Day is illusion, Night is way REAL**
+- ⚡ Fun fact "I am good at observations: yep, the scientific one!"
 
 
 
